@@ -1,0 +1,6 @@
+Step-1
+dotnet tool install -g dotnet-stryker
+Step-2
+dotnet new tool-manifest
+step-3
+dotnet tool install dotnet-stryker
