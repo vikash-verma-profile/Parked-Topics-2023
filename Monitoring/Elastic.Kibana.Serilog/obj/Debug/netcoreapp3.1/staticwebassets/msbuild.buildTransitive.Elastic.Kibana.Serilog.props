@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Elastic.Kibana.Serilog.props" />
+</Project>
